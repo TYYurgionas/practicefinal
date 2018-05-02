@@ -1,0 +1,6 @@
+c:\users\red panda\documents\visual studio 2015\Projects\practicefinal\practicefinal\bin\Debug\practicefinal.exe.config
+c:\users\red panda\documents\visual studio 2015\Projects\practicefinal\practicefinal\bin\Debug\practicefinal.exe
+c:\users\red panda\documents\visual studio 2015\Projects\practicefinal\practicefinal\bin\Debug\practicefinal.pdb
+c:\users\red panda\documents\visual studio 2015\Projects\practicefinal\practicefinal\obj\Debug\practicefinal.csprojResolveAssemblyReference.cache
+c:\users\red panda\documents\visual studio 2015\Projects\practicefinal\practicefinal\obj\Debug\practicefinal.exe
+c:\users\red panda\documents\visual studio 2015\Projects\practicefinal\practicefinal\obj\Debug\practicefinal.pdb
